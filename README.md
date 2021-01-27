@@ -1,3 +1,11 @@
+# This is an Interstellar React App that uses the NASA API to capture NASA's image of the day.  
+
+Note about the API Keys: You will need register for your own NASA API key at https://api.nasa.gov free of charge. If you deploy, please move the keys to a safe place. You can add your own NASA API key in NasaPhoto.js where it says 'your-NASA-API-key'.
+
+<a href="https://ibb.co/8KtXH7C"><img src="https://i.ibb.co/K0SmJrP/Screen-Shot-2021-01-27-at-12-14-06-AM.png" alt="Screen-Shot-2021-01-27-at-12-14-06-AM" border="0"></a> 
+
+<a href="https://ibb.co/swDKQkz"><img src="https://i.ibb.co/wWbSC3j/Screen-Shot-2021-01-27-at-12-15-17-AM.png" alt="Screen-Shot-2021-01-27-at-12-15-17-AM" border="0"></a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
